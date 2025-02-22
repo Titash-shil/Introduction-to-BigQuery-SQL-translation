@@ -85,5 +85,5 @@ echo
 echo
 # Completion message
 echo -e "${BLUE_TEXT}${BOLD_TEXT}NOW FOLLOW STEPS IN THE VIDEO.${RESET_FORMAT}"
-echo -e "${GREEN_TEXT}${BOLD_TEXT}Subscribe our Channel:${RESET_FORMAT} ${CYAN_TEXT}${BOLD_TEXT}https://www.youtube.com/@Arcade61432${RESET_FORMAT}"
+echo -e "${GREEN_TEXT}${BOLD_TEXT}Subscribe our Channel:${RESET_FORMAT} ${CYAN_TEXT}${BOLD_TEXT}https://www.youtube.com/@qwiklabexplorers${RESET_FORMAT}"
 echo
