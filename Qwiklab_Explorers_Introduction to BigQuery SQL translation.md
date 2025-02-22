@@ -1,4 +1,4 @@
-# || [Implement Load Balancing on Compute Engine: Challenge Lab](https://www.cloudskillsboost.google/focuses/2802?parent=catalog) || 
+# || [Introduction to BigQuery SQL translation](https://www.cloudskillsboost.google/focuses/2802?parent=catalog) || 
 
 ## # Like, comment, share & Don't forget to subscribe [QwikLab Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
