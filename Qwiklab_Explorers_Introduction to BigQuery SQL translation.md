@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Implement-Load-Balancing-on-Compute-Engine-Challenge-Lab-GSP313/refs/heads/main/qwiklab_explorers_gsp313.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Introduction-to-BigQuery-SQL-translation/refs/heads/main/qwiklab_explorers.sh
 
-sudo chmod +x qwiklab_explorers_gsp313.sh
+sudo chmod +x qwiklab_explorers.sh
 
-./qwiklab_explorers_gsp313.sh
+./qwiklab_explorers.sh
 ```
 ---
 
